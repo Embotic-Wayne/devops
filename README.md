@@ -1,3 +1,6 @@
+https://roadmap.sh/projects/server-stats
+
+
 # server performance stats
 
 Bash script that analyzes basic Linux server performance statistics.
@@ -15,5 +18,3 @@ Bash script that analyzes basic Linux server performance statistics.
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
-
-https://roadmap.sh/projects/server-stats
